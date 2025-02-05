@@ -1,30 +1,30 @@
-button{
-    height: 25px;
-    width: 35px;
-    border: transparent;
-background-color: gray;
-border-radius: 5px;
+button {
+ height: 30px;
+ width: 34px;
+  border: transparent;
+  background-color: gray;
+  border-radius: 5px;
+  padding: 2px;
 }
-.main div{
-    padding: 5px;
+.main div {
+  padding: 6px;
 }
-input{
-    border: transparent;
-    background-color: bisque;
-    width: 98%;
-    height: 25px;
-    box-sizing: border-box;
+input {
+  border: transparent;
+  background-color: bisque;
+  width: 98%;
+  height: 25px;
+  box-sizing: border-box;
 }
-.main{
-    width: 162px;
-    border: 2px solid;
-    padding: 20px;
-    background-color: brown;
-
+.main {
+  width: 200px;
+  border: 2px solid;
+  padding: 20px;
+  background-color: brown;
 }
-button:hover{
-    background-color:aqua ;
+button:hover {
+  background-color: aqua;
 }
-button:active{
-    background-color:red;
+button:active {
+  background-color: red;
 }
