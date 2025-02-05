@@ -1,0 +1,28 @@
+button{
+    height: 25px;
+    width: 35px;
+    border: transparent;
+background-color: gray;
+border-radius: 5px;
+}
+.main div{
+    padding: 5px;
+}
+input{
+    border: transparent;
+    background-color: bisque;
+    width: 98%;
+    height: 25px;
+    box-sizing: border-box;
+}
+.main{
+    width: 162px;
+    border: 2px solid;
+    padding: 20px;
+}
+button:hover{
+    background-color:aqua ;
+}
+button:active{
+    background-color:red;
+}
